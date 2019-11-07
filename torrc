@@ -1,0 +1,2 @@
+HiddenServiceDir /var/lib/tor/hs/
+HiddenServicePort 80 nextcloud:80
