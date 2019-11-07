@@ -1,7 +1,7 @@
 # Tor docker image
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/lu4p/tor)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/lu4p/tor)](https://hub.docker.com/r/lu4p/tor)
 [![](https://images.microbadger.com/badges/image/lu4p/tor.svg)](https://microbadger.com/images/lu4p/tor "Get your own image badge on microbadger.com")
-![Docker Pulls](https://img.shields.io/docker/pulls/lu4p/tor)
+[![Docker Pulls](https://img.shields.io/docker/pulls/lu4p/tor)](https://hub.docker.com/r/lu4p/tor)
 
 # Example usage with docker-compose
 ### 1. Create tor-example directory
