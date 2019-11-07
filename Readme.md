@@ -28,6 +28,7 @@ services:
 
 ### 3. Create the tor config
 - torrc documentation https://2019.www.torproject.org/docs/tor-manual.html.en
+
 ```
 $ nano ./torrc
 HiddenServiceDir /var/lib/tor/hs/
