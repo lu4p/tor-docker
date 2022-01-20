@@ -3,7 +3,7 @@ volumes:
   nextcloud:
 services:
   tor:
-    image: tor
+    image: lu4p/tor
     volumes:
        - ./tor:/var/lib/tor/ 
        - ./torrc:/etc/tor/torrc
